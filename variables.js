@@ -1,5 +1,5 @@
 const imageUrls = [
-  "./images/sun.png",
+  "./images/Sun.png",
   "./images/Mercury.png",
   "./images/Venus.png",
   "./images/Earth.png",

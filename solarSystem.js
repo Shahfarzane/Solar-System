@@ -16,7 +16,7 @@ function loadSolarSystem(data) {
     if (imageUrls[index]) {
       planetImgEl.src = imageUrls[index];
     } else {
-      planetImgEl.src = "moon.png";
+      planetImgEl.src = "Moon.png";
     }
     let modalEl = createModal(data, index, imageUrls);
     planetContainer.addEventListener("click", openModal);
