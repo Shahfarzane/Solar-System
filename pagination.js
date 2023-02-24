@@ -7,9 +7,6 @@ function navigateContainer(data, index, imageUrls) {
   let previousPlanetBtn = document.createElement("button");
   previousPlanetBtn.classList.add("navigation-button");
 
-  nextPlanetBtn.classList.add("navigation-button");
-
-  previousPlanetBtn.classList.add("navigation-button");
   let navigationContainer = document.createElement("article");
   navigationContainer.classList.add("navigation-buttons-container");
 
